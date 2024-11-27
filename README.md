@@ -2,7 +2,10 @@
 
 # Introduction
 
-This repository contains Python code for a working example of our receptive field estimation method incorporating cortical state effects to account for trial-to-trial response variabilities, using a simple convolutional neural network approach. The method is described in detail, with results on many cortical neurons, in our paper currently submitted for publication
+This repository contains Python code for a working example of our receptive field estimation method incorporating cortical state effects to account for trial-to-trial response variabilities, using a simple convolutional neural network approach. The method is described in detail, with results on many cortical neurons, in our paper currently submitted for publication.
+
+<img width="829" alt="Screenshot 2024-11-27 at 10 09 39 AM" src="https://github.com/user-attachments/assets/9225405a-2cfd-41fa-b147-bdeafcfacfef">
+
 
 This repository contains code to run system identification with 2 example neurons used in the publication. When running the codes, make sure to change the folder names according to your setup.
 
